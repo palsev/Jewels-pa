@@ -1,0 +1,49 @@
+pre {
+  position: relative;
+}
+.hljsln {
+  display: block;
+}
+.hljsln::-webkit-scrollbar {
+  height: 2px;
+}
+.hljsln::-webkit-scrollbar-thumb {
+  background: #666;
+}
+.hljsln::-webkit-scrollbar-thumb:hover {
+  background: #797979;
+}
+.hljsln::-webkit-scrollbar-thumb:active {
+  background: #949494;
+}
+.hljsln .ln-bg {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 18px;
+  height: 100%;
+  background: transparent;
+}
+.hljsln .ln-num {
+  /* position: absolute; */
+  z-index: 2;
+  left: 0;
+  width: 18px;
+  height: 24px;
+  margin-bottom: 8px;
+  text-align: center;
+  display: inline-block;
+  color: #596a8a;
+  user-select: none;
+}
+.hljsln .ln-num::before {
+  color: #596a8a;
+  content: attr(data-num);
+}
+.hljsln .ln-num::last-child {
+  margin-bottom: 0;
+}
+.hljsln .ln-eof {
+  display: inline-block;
+}

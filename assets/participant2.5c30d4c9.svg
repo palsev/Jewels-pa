@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ph</title>
+    <defs>
+        <path d="M23.8974164,6.94040214 L22.990894,12.2705518 C22.822072,13.2631876 21.8178384,14 20.6337542,14 L3.36623243,14 C2.18214826,14 1.17791469,13.2631876 1.0090927,12.2705518 L0.102570311,6.94040214 C-0.512831734,3.32197521 1.64098624,1.03974532 6.56402423,0.0937124532 L6.56402383,0.0937103658 C6.87571869,0.0338136963 7.19733972,0.125443422 7.43066722,0.340616782 C8.64785515,1.46310092 10.1709661,2.02434299 12,2.02434299 C13.7825091,2.02434299 15.3059063,1.45896259 16.5701916,0.328201786 L16.5701706,0.328178361 C16.8026105,0.120287084 17.1187255,0.0327274586 17.4250005,0.0914019007 C22.355848,1.0360259 24.51332,3.31902598 23.8974164,6.94040214 Z" id="path-1"></path>
+    </defs>
+    <g id="ph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ph-65ph-4" transform="translate(2.000000, 0.000000)">
+            <g id="ph-15ph" transform="translate(2.000006, 15.453332)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="ph" fill="#FCE6DC" xlink:href="#path-1"></use>
+                <line x1="11.9999944" y1="1.54460499" x2="11.9999944" y2="9.02333116" id="ph-15" stroke="#EF814E" stroke-linecap="round" stroke-dasharray="1,2" mask="url(#mask-2)"></line>
+            </g>
+            <rect id="ph-5" fill="#EF814E" x="0" y="28" width="28" height="4" rx="2"></rect>
+            <circle id="ph-3" fill="#EF814E" cx="15" cy="2" r="2"></circle>
+            <path d="M15,2 L2,15" id="ph" stroke="#EF814E" stroke-linecap="round" stroke-dasharray="1,2"></path>
+            <line x1="17.5" y1="4" x2="26" y2="9.5" id="ph-16ph" stroke="#EF814E" stroke-linecap="round" stroke-dasharray="1,2"></line>
+            <circle id="ph-4" fill="#EF814E" cx="2" cy="15" r="2"></circle>
+            <circle id="ph-5" fill="#EF814E" cx="26" cy="9.5" r="2"></circle>
+            <circle id="ph-6" fill="#FCE6DC" cx="14" cy="10" r="6"></circle>
+            <path d="M9.26556444,20 L18.7344356,20 C19.8390051,20 20.7344356,20.8954305 20.7344356,22 C20.7344356,22.08293 20.7292775,22.1657798 20.7189913,22.2480695 L20,28 L20,28 L8,28 L7.28100868,22.2480695 C7.1440037,21.1520296 7.92145509,20.1524492 9.01749497,20.0154442 C9.09978462,20.005158 9.18263439,20 9.26556444,20 Z" id="ph-8" fill="#EF814E"></path>
+            <circle id="ph-7" fill="#FCE6DC" cx="14" cy="24" r="2"></circle>
+        </g>
+    </g>
+</svg>

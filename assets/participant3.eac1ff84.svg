@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="25px" viewBox="0 0 32 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ph 54@3x</title>
+    <g id="ph" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ph" transform="translate(-984.000000, -4415.000000)">
+            <g id="ph-17" transform="translate(0.000000, 2117.000000)">
+                <g id="ph-38" transform="translate(332.000000, 2262.000000)">
+                    <g id="ph-4" transform="translate(620.000000, 0.000000)">
+                        <g id="ph-54" transform="translate(32.000000, 36.000000)">
+                            <path d="M0,9 L32,9 L32,21 C32,23.209139 30.209139,25 28,25 L4,25 C1.790861,25 2.705415e-16,23.209139 0,21 L0,9 L0,9 Z" id="ph" fill="#FCE6DC"></path>
+                            <path d="M4,0 L28,0 C30.209139,-4.05812251e-16 32,1.790861 32,4 L32,7 L32,7 L0,7 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="ph" fill="#EF814E"></path>
+                            <circle id="ph" fill="#FCE6DC" cx="17.5" cy="3.5" r="1.5"></circle>
+                            <circle id="ph" fill="#FCE6DC" cx="22.5" cy="3.5" r="1.5"></circle>
+                            <circle id="ph" fill="#FCE6DC" cx="27.5" cy="3.5" r="1.5"></circle>
+                            <g id="ph-53" transform="translate(6.000000, 14.000000)" stroke="#EF814E" stroke-linecap="round" stroke-width="2">
+                                <path d="M4,0 L1.3267867,1.81349041 C0.86974666,2.12354338 0.750590098,2.74539513 1.06064307,3.20243517 C1.14624115,3.32861281 1.2595589,3.43354593 1.39193186,3.50921118 L4,5 L4,5" id="ph-7"></path>
+                                <path d="M20,0 L17.3267867,1.81349041 C16.8697467,2.12354338 16.7505901,2.74539513 17.0606431,3.20243517 C17.1462412,3.32861281 17.2595589,3.43354593 17.3919319,3.50921118 L20,5 L20,5" id="ph-7" transform="translate(18.000000, 2.500000) scale(-1, 1) translate(-18.000000, -2.500000) "></path>
+                                <polyline id="ph-10" points="11 0 9.96281628 2.5929593 9 5"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

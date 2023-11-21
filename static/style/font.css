@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Haas Grot Disp";
+  src: url("https://app.shorter.finance/static/font/NeueHaasGrotDispRound-55Roman.otf");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Haas Grot Disp";
+  src: url("https://app.shorter.finance/static/font/NeueHaasGrotDispRound-65Medium.otf");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Haas Grot Text";
+  src: url("https://app.shorter.finance/static/font/NeueHaasGrotTextRound-55Roman.otf");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Haas Grot Text";
+  src: url("https://app.shorter.finance/static/font/NeueHaasGrotTextRound-65Medium.otf");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Haas Grot Text";
+  src: url("https://app.shorter.finance/static/font/NeueHaasGrotTextRound-75Bold.otf");
+  font-style: bold;
+  font-weight: 700;
+}
