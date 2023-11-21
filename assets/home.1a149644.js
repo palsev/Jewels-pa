@@ -40821,12 +40821,7 @@ const Ci = {
     setup(i) {
       return (t, a) => (o(), d("div", {
         class: i0(["card card-bg", `card-${i.info.name}`])
-      }, [A("p", Ci, v(i.info.name), 1), A("p", Ui, [A("span", Ki, v(i.info.strong), 1), G(" " + v(i.info.title), 1)]), A("p", Ji, v(i.info.content), 1), A("a", {
-        href: i.info.url,
-        class: "more circle-btn"
-      }, [c(o0, {
-        class: "arrow"
-      })], 8, _i)], 2))
+      }, [A("p", Ci, v(i.info.name), 1), A("p", Ui, [A("span", Ki, v(i.info.strong), 1), G(" " + v(i.info.title), 1)]), A("p", Ji, v(i.info.content), 1)], 2))
     }
   };
 var _0 = I($i, [
@@ -41034,9 +41029,7 @@ const Qt = i => (W("data-v-0b31a562"), i = i(), O(), i),
       }, null, 8, Zt)]), A("p", Tt, v(k(a).title), 1), A("p", Ft, v(k(a).intro), 1), A("button", {
         class: "btn btn-learn",
         onClick: r
-      }, [Yt, c(o0, {
-        class: "arrow"
-      })])]))
+      })]))
     }
   };
 var $0 = I(Ct, [
@@ -42548,11 +42541,7 @@ const R = i => (W("data-v-40b2e67a"), i = i(), O(), i),
     class: "faq-more"
   }, [A("p", {
     class: "title title-h2"
-  }, "FAQ"), A("a", {
-    class: "btn btn-text btn-faq",
-    href: "https://docs.shorter.finance/faqs/troubleshooting-issues.html",
-    target: "_blank"
-  }, [A("span", null, "More")])], -1)),
+  }, "FAQ")], -1)),
   $2 = {
     class: "faq-list-wrap"
   },
@@ -42580,7 +42569,7 @@ const R = i => (W("data-v-40b2e67a"), i = i(), O(), i),
   },
   n7 = R(() => A("p", {
     class: "copyright"
-  }, "Copyright IPI Labs. \xA9 2023", -1)),
+  }, "Copyright Jewels. \xA9 2023", -1)),
   s7 = {
     class: "follow-wrap"
   },
@@ -42724,16 +42713,16 @@ const R = i => (W("data-v-40b2e67a"), i = i(), O(), i),
           y.json().then(h => {
             f.value = h, u.value = [{
               name: "Total Value Locked",
-              data: "$" + Z(f.value.tvl),
-              origin: Number(f.value.tvl)
+              data: "$" + Z(0),
+              origin: Number(0)
             }, {
               name: "Pools",
-              data: Z(f.value.pools),
-              origin: Number(f.value.pools)
+              data: Z(0),
+              origin: Number(0)
             }, {
               name: "Active Traders",
-              data: Z(f.value.traders),
-              origin: Number(f.value.traders)
+              data: Z(0),
+              origin: Number(0)
             }]
           })
         })
@@ -42815,11 +42804,7 @@ const R = i => (W("data-v-40b2e67a"), i = i(), O(), i),
         title: "How Jewels guard your equity?"
       }), A("div", f2, [v2, E2, c(K0, {
         onClick: y[1] || (y[1] = h => S(""))
-      }), k2])])]), A("div", I2, [c(aA)])])]), A("div", R2, [A("div", h2, [(o(), d(b, null, V(E, (h, q) => c(G3, {
-        class: "comment-card",
-        key: `comment_${q}`,
-        info: h
-      }, null, 8, ["info"])), 64))])]), A("div", b2, [A("div", y2, [g2, A("div", V2, [z2, A("div", w2, [c($3)])])])]), A("div", B2, [A("div", D2, [A("div", X2, [q2, P2]), A("div", N2, [c(pa)])])]), A("div", K2, [A("div", J2, [_2, A("div", $2, [c(wa)])])]), A("div", A7, [A("div", i7, [t7, a7, A("div", e7, [c(OA, {
+      }), k2])])]), A("div", I2, [c(aA)])])]), A("div", R2, [A("div", h2, [(o(), d(b, null, 64))])]), A("div", b2, [A("div", y2, [g2, A("div", V2, [z2, A("div", w2, [c($3)])])])]), A("div", B2, [A("div", D2, [A("div", X2, [q2, P2]), A("div", N2, [c(pa)])])]), A("div", K2, [A("div", J2, [_2, A("div", $2, [c(wa)])])]), A("div", A7, [A("div", i7, [t7, a7, A("div", e7, [c(OA, {
         class: "item1",
         type: !0
       }), A("div", r7, [n7, A("div", s7, [o7, c(_a, {
